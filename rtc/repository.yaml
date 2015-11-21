@@ -1,0 +1,25 @@
+Localization_YMCL:
+  description: Localization YMCL Component
+  git: https://github.com/sugarsweetrobotics/Localization_YMCL.git
+  hash: 346bbcafd87ca204b96bd874e3faed6168a4ea6d
+  repo_name: Localization_YMCL
+MapServer:
+  description: MapServer RTC
+  git: https://github.com/sugarsweetrobotics/MapServer.git
+  hash: e860e313e63d595a4b7b65a8409df331520c40f4
+  repo_name: MapServer
+MobileRobotKinematics:
+  description: Mobile robot kinematics component
+  git: https://github.com/sugarsweetrobotics/MobileRobotKinematics.git
+  hash: 8b148c517e7bc55f1f3cfa39eb6289782ce5abd2
+  repo_name: MobileRobotKinematics
+NavigationManager:
+  description: Navigation Manager GUI RTC
+  git: https://github.com/sugarsweetrobotics/NavigationManager.git
+  hash: 067fd2b31eb117596c30afd72158c95211ac9504
+  repo_name: NavigationManager
+SimulationManager:
+  description: Test Component for Simulator
+  git: https://github.com/ogata-lab/SimulationManager.git
+  hash: 00697f4e1dbd9706f3aa56c19ee60a0b98da0540
+  repo_name: SimulationManager
