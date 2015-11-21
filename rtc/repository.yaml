@@ -1,7 +1,7 @@
 Localization_YMCL:
   description: Localization YMCL Component
   git: https://github.com/sugarsweetrobotics/Localization_YMCL.git
-  hash: 346bbcafd87ca204b96bd874e3faed6168a4ea6d
+  hash: 5f6af58b9b01c692d9be46928e8f9ae2c9bb5d9c
   repo_name: Localization_YMCL
 MapServer:
   description: MapServer RTC
